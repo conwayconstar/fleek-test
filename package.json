@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export && node edit-export.js"
+    "export": "next export"
   },
   "dependencies": {
     "@types/node": "20.1.7",
